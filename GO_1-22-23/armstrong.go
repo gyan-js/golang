@@ -20,10 +20,3 @@ func main() {
 
 }
 
-//armstrong number in java?
-//CLASS_PATH
-
-
-
-//Source: 
-
